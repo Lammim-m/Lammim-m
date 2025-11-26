@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Lammim-m
-- 👀 I’m interested in learning more languages (both coding and actual spoken languages).
-- 📫 How to reach me: Email: mirza.lammim@gmail.com
+I’m a software engineering student focused on full-stack development, cloud computing, and API design. This GitHub contains my academic projects and personal work using Java, JavaScript, C#, Python, Spring Boot, ASP.NET MVC, MySQL, Flask, and AWS.
 
-<!---
-Lammim-m/Lammim-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning: React, API deployment, and data structures & algorithms.
+Goal: Build real-world applications and grow as a full-stack developer.
